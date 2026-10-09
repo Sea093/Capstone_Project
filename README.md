@@ -23,6 +23,32 @@ Task 2:-a) Create a robust machine learning algorithm to accurately predict the 
 
 Task3:- Come up with suggestions for the customer to buy the house according to the area, price and other requirements.
 
+## PRCP-1016-Heart Disease Prediction
+<hr>
+
+## Problem Statement
+
+Task 1:-Prepare a complete data analysis report on the given data.
+
+Task 2:- Create a model predicting potential Heart Diseases in people using Machine Learning algorithms.
+
+Task3:-Suggestions to the Hospital  to awake the predictions of heart diseases  prevent life threats.
+
+
+PRCP-Rice Leaf Disease
+<hr>
+
+## Problem Statement
+
+Task 1:-Prepare a complete data analysis report on the given data.
+
+Task 2:-Create a model which can classify the three major attacking diseases of rice plants like leaf blast, bacterial blight and brown spot.
+
+Task3:- Analyze various techniques like Data Augmentation, etc and create a report on that.
+
+
+
+
 
 
 
