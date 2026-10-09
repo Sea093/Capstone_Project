@@ -1,0 +1,49 @@
+1. Introduction to Rice Leaf Disease Detection
+-----------------------------------------------------------------------------------
+
+Rice is one of the most important food crops in the world and is a major source of food for millions of people. However, rice plants are affected by various diseases that can reduce crop quality, decrease production, and cause significant economic losses for farmers. Rice leaf diseases are particularly important because they damage the leaves, affecting photosynthesis and the healthy growth of the plant.
+
+Common rice leaf diseases include Leaf Smut, Brown Spot, and Bacterial Leaf Blight. Leaf Smut causes small, dark spots on the leaves, Brown Spot produces brown lesions on the leaf surface, and Bacterial Leaf Blight causes yellowing and drying of leaf edges, which may spread across the leaf.
+
+Traditional disease identification methods often require expert knowledge and manual inspection, which can be time-consuming. With the development of Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), rice leaf diseases can be detected automatically using images of infected leaves.
+
+This project focuses on developing a Convolutional Neural Network (CNN)-based image classification model to identify and classify rice leaf diseases into three categories: Leaf Smut, Brown Spot, and Bacterial Leaf Blight. The project also explores data analysis, image preprocessing, data augmentation, and model evaluation to improve classification performance.
+
+The main objective is to develop an efficient and beginner-friendly deep learning system that can help identify rice leaf diseases at an early stage and support farmers in making timely crop management decisions.
+
+
+---------------------------------------------------------------------------------------
+2. Problem Statement
+---------------------------------------------------------------------------------------
+
+Task 1:-Prepare a complete data analysis report on the given data.
+
+Task 2:-Create a model which can classify the three major attacking diseases of rice plants like leaf blast, bacterial blight and brown spot.
+
+Task3:- Analyze various techniques like Data Augmentation, etc and create a report on that.
+
+
+------------------------------------------------------------------------------------------
+3. Objectives of the Project
+------------------------------------------------------------------------------------------
+
+* Analyze the rice leaf image dataset and understand the distribution of disease classes.
+
+* Preprocess images and prepare them for deep learning.
+
+* Build and train a CNN model to classify rice leaf diseases.
+
+* Apply data augmentation to improve model generalization.
+
+* Evaluate model performance using accuracy, loss, a confusion matrix, and a classification report.
+
+* Explore how automated disease classification can support early disease identification.
+
+
+------------------------------------------------------------------------------------------------------
+4. Conclusion
+--------------------------------------------------------------------------------------------------
+
+Rice leaf disease detection using deep learning is a promising approach to agricultural disease management. By automatically classifying leaf images, the proposed system aims to support faster disease identification. However, its reliability depends on the quality and size of the dataset, model performance, and testing on real-world rice leaf images.
+
+
